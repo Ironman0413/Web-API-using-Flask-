@@ -1,0 +1,151 @@
+$ curl http://127.0.0.1:5000/dogbreeds
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  3141  100  3141    0     0   766k      0 --:--:-- --:--:-- --:--:-- 1022k{
+  "dogbreeds": [
+    {
+      "breed": "Labrador Retriever",
+      "breedType": "Purebred",
+      "hypoallergenic": "No",
+      "intelligence": 7,
+      "origin": "Canada,USA",
+      "popularity": 1,
+      "temperament": [
+        "Cheerful",
+        "Gentle",
+        "Friendly",
+        "Intelligent"
+      ]
+    },
+    {
+      "breed": "German Shepard",
+      "breedType": "Purebred",
+      "hypoallergenic": "No",
+      "intelligence": 3,
+      "origin": "Germany",
+      "popularity": 2,
+      "temperament": [
+        "Corageous",
+        "Intelligent",
+        "Loyal",
+        "Watchful"
+      ]
+    },
+    {
+      "breed": "Golden Retriever",
+      "breedType": "Purebred",
+      "hypoallergenic": "No",
+      "intelligence": 4,
+      "origin": "United Kingdom",
+      "popularity": 3,
+      "temperament": [
+        "Intelligent",
+        "Kind",
+        "Friendly",
+        "Confident"
+      ]
+    },
+    {
+      "breed": "French Bulldog",
+      "breedType": "Purebred",
+      "hypoallergenic": "No",
+      "intelligence": 58,
+      "origin": "France, UK",
+      "popularity": 4,
+      "temperament": [
+        "Playful",
+        "Sociable",
+        "Friendly",
+        "Lively",
+        "Patient"
+      ]
+    },
+    {
+      "breed": "Bulldog",
+      "breedType": "Purebred",
+      "hypoallergenic": "No",
+      "intelligence": 77,
+      "origin": "United Kingdom",
+      "popularity": 5,
+      "temperament": [
+        "Friendly",
+        "Docile",
+        "Willful",
+        "Gregarious"
+      ]
+    },
+    {
+      "breed": "Beagle",
+      "breedType": "Purebred",
+      "hypoallergenic": "No",
+      "intelligence": 72,
+      "origin": "United Kingdom",
+      "popularity": 6,
+      "temperament": [
+        "Gentle",
+        "Intelligent",
+        "Even Tempered",
+        "Determined"
+      ]
+    },
+    {
+      "breed": "Poodle",
+      "breedType": "Purebred",
+      "hypoallergenic": "Yes",
+      "intelligence": 2,
+      "origin": "Germany, France",
+      "popularity": 7,
+      "temperament": [
+        "Intelligent",
+        "Faithful",
+        "Trainable",
+        "Instinctual"
+      ]
+    },
+    {
+      "breed": "Rottweiler",
+      "breedType": "Purebred",
+      "hypoallergenic": "No",
+      "intelligence": 9,
+      "origin": "Germany",
+      "popularity": 8,
+      "temperament": [
+        "Intelligent",
+        "Corageous",
+        "Fearless",
+        "Confident"
+      ]
+    },
+    {
+      "breed": "German Shorthaired Pointer",
+      "breedType": "Purebred",
+      "hypoallergenic": "No",
+      "intelligence": 9,
+      "origin": "Germany",
+      "popularity": 9,
+      "temperament": [
+        "Intelligent",
+        "Trainable",
+        "Boisterous",
+        "Cooperative"
+      ]
+    },
+    {
+      "breed": "Yorkshire Terrier",
+      "breedType": "Purebred",
+      "hypoallergenic": "Yes",
+      "intelligence": 27,
+      "origin": "United Kingdom",
+      "popularity": 10,
+      "temperament": [
+        "Independent",
+        "Intelligent",
+        "Corageous",
+        "Confident"
+      ]
+    }
+  ]
+}
+
+
+

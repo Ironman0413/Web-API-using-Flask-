@@ -1,0 +1,20 @@
+$ curl -X PUT "" http://127.0.0.1:5000/dogbreeds/2
+curl: (3) URL using bad/illegal format or missing URL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   280  100   280    0     0  93333      0 --:--:-- --:--:-- --:--:-- 93333{
+  "DogBreeds": {
+    "breed": "ABCD",
+    "breedType": "Purebred",
+    "hypoallergenic": "No",
+    "intelligence": 3,
+    "origin": "Germany",
+    "popularity": 2,
+    "temperament": [
+      "Corageous",
+      "Intelligent",
+      "Loyal",
+      "Watchful"
+    ]
+  }
+}

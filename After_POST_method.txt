@@ -1,0 +1,19 @@
+$ curl --data "" http://127.0.0.1:5000/dogbreeds/post
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   278  100   278    0     0  92666      0 --:--:-- --:--:-- --:--:--  135k{
+  "Data Added": {
+    "breed": "Boxer",
+    "breedType": "Purebred",
+    "hypoallergenic": "No",
+    "intelligence": 48,
+    "origin": "Germany",
+    "popularity": 11,
+    "temperament": [
+      "Playful",
+      "Friendly",
+      "Devoted",
+      "Loyal"
+    ]
+  }
+}

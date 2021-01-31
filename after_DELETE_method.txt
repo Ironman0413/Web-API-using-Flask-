@@ -1,0 +1,7 @@
+$ curl -X DELETE "" http://127.0.0.1:5000/dogbreeds/3
+curl: (3) URL using bad/illegal format or missing URL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    21  100    21    0     0   5250      0 --:--:-- --:--:-- --:--:-- 10500{
+  "result": true
+}

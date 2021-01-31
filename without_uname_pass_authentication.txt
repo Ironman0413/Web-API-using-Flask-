@@ -1,0 +1,5 @@
+$ curl http://127.0.0.1:5000/dogbreeds
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    19  100    19    0     0   4750      0 --:--:-- --:--:-- --:--:--  6333Unauthorized Access
+
